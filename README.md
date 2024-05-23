@@ -6,13 +6,13 @@ Predicting customer churn is essential for the telecom sector's ability to retai
 # Project Structure
 The project is structured as follows:
 
-# Data Loading and Preprocessing: Loading the dataset and performing necessary preprocessing steps.
-# Exploratory Data Analysis (EDA): Understanding the data distribution and identifying important features.
-# Feature Engineering: Transforming categorical variables and standardizing numerical features.
-# Model Building and Evaluation: Building and evaluating multiple machine learning models.
-# Conclusion: Summarizing the results and identifying the best-performing model.
+Data Loading and Preprocessing: Loading the dataset and performing necessary preprocessing steps.
+Exploratory Data Analysis (EDA): Understanding the data distribution and identifying important features.
+Feature Engineering: Transforming categorical variables and standardizing numerical features.
+Model Building and Evaluation: Building and evaluating multiple machine learning models.
+Conclusion: Summarizing the results and identifying the best-performing model.
 
-#Dependencies
+# Dependencies
 pandas
 numpy
 missingno
